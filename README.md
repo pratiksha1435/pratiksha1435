@@ -1,9 +1,6 @@
 My name is Pratiksha 
 ## Hi there 👋
 
-<!--
-**pratiksha1435/pratiksha1435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Github portfolio projects in SQL, Python, Excel VBA, and Power BI.
 - 🌱 I’m currently learning Python, SQL, MS Excel, Power Query, and Power BI to transition into a Data Analytics role.
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Pratikshasdp55@gmail.com
 - ⚡ Fun fact: "Spent years telling stories to sell products; now I let the data tell its own story through dashboards and patterns."
 
--->
